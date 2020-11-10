@@ -13,7 +13,7 @@ login com rede social (github, facebook ou twitter) e pegar dados de uma api fei
 - Abra o localhost:8000 no seu navegar e pronto.
 
 ### Imagens:
-<a href="https://imgur.com/Ys9qCJQ"><img src="https://i.imgur.com/Ys9qCJQ.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/b2oFrBj"><img src="https://i.imgur.com/b2oFrBj.png" title="source: imgur.com" /></a>
 
 <a href="https://imgur.com/cuMcWDm"><img src="https://i.imgur.com/cuMcWDm.png" title="source: imgur.com" /></a>
 
