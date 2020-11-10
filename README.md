@@ -2,7 +2,7 @@
 login com rede social (github, facebook ou twitter) e pegar dados de uma api feita em laravel sobre regras/noticias de condominios sobre covid-19.
 
 ### Imagens:
-!(https://i.imgur.com/Ys9qCJQ.png)[https://i.imgur.com/Ys9qCJQ.png]
+<a href="https://imgur.com/Ys9qCJQ"><img src="https://i.imgur.com/Ys9qCJQ.png" title="source: imgur.com" /></a>
 
 !()[https://i.imgur.com/cuMcWDm.png]
 
