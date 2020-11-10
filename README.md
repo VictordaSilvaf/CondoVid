@@ -4,13 +4,13 @@ login com rede social (github, facebook ou twitter) e pegar dados de uma api fei
 ### Imagens:
 <a href="https://imgur.com/Ys9qCJQ"><img src="https://i.imgur.com/Ys9qCJQ.png" title="source: imgur.com" /></a>
 
-!()[https://i.imgur.com/cuMcWDm.png]
+<a href="https://imgur.com/cuMcWDm"><img src="https://i.imgur.com/cuMcWDm.png" title="source: imgur.com" /></a>
 
-!()[https://i.imgur.com/no2kOZr.png]
+<a href="https://imgur.com/no2kOZr"><img src="https://i.imgur.com/no2kOZr.png" title="source: imgur.com" /></a>
 
-!()[https://i.imgur.com/OI3OHnO.png]
+<a href="https://imgur.com/OI3OHnO"><img src="https://i.imgur.com/OI3OHnO.png" title="source: imgur.com" /></a>
 
-!()[https://i.imgur.com/b95F3XK.png]
+<a href="https://imgur.com/b95F3XK"><img src="https://i.imgur.com/b95F3XK.png" title="source: imgur.com" /></a>
 
 
 ### Feito em
